@@ -43,6 +43,7 @@
                 Console.WriteLine(i);
             }
             Console.WriteLine("Github Changes Successfully");
+            Console.WriteLine("This is 2nd commit");
             print();
         }
 
