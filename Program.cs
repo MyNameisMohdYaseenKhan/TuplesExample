@@ -42,7 +42,7 @@
             {
                 Console.WriteLine(i);
             }
-            Console.WriteLine("Github Changes Successfully");
+            Console.WriteLine("Code push to My Branch!!");
             
             print();
         }
