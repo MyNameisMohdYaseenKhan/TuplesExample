@@ -42,7 +42,7 @@
             {
                 Console.WriteLine(i);
             }
-            Console.WriteLine("Hello Sir");
+            Console.WriteLine("Github Changes Successfully");
             print();
         }
 
